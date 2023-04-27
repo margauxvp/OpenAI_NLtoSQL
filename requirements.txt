@@ -2,3 +2,5 @@
 openai
 azure-identity
 azure-keyvault-secrets
+langchain
+pyodbc
